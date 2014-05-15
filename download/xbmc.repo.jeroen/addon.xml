@@ -3,7 +3,7 @@
     <extension point="xbmc.addon.repository" name="Jeroen's Add-on Repository">
         <info>http://github.com/jeroenpardon/xbmc.repo.jeroen/raw/master/addons.xml</info>
         <checksum>http://github.com/jeroenpardon/xbmc.repo.jeroen/raw/master/addons.xml.md5</checksum>
-        <datadir zip="false">https://raw.githubusercontent.com/jeroenpardon/xbmc.repo.jeroen/master/repo/</datadir>
+        <datadir zip="false">https://raw.githubusercontent.com/jeroenpardon/xbmc.repo.jeroen/master/download/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Jeroen's Add-on Repository</summary>
