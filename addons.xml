@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="skin.refocus" version="1.1.1-PR2" name="reFocus" provider-name="Jeroen">
+	<addon id="skin.refocus" version="1.1.1-RC1b" name="reFocus" provider-name="Jeroen">
 		<requires>
 			<import addon="xbmc.gui" version="5.0.1"/>
 			<import addon="script.artistslideshow" version="1.6.3"/>
