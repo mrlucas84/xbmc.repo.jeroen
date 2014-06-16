@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="script.skinshortcuts" name="Skin Shortcuts" version="0.3.3PR3" provider-name="Unfledged">
+<addon id="script.skinshortcuts" name="Skin Shortcuts" version="0.3.3" provider-name="Unfledged">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
@@ -52,7 +52,7 @@
 	</extension>
 </addon>
 
-	<addon id="skin.refocus" version="1.3.2" name="reFocus" provider-name="Jeroen">
+	<addon id="skin.refocus" version="1.3.2b" name="reFocus" provider-name="Jeroen">
 	<requires>
 		<import addon="xbmc.gui" version="5.0.1"/>
 		<import addon="script.artistslideshow" version="1.6.3"/>
